@@ -23,7 +23,7 @@
 * DDD
 
 ### 📫 How to reach me
-please feel free to contact me by email!
+please feel free to contact me by email! (kshz9815@naver.com)
 
 <!--
 **suhongkim98/suhongkim98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
