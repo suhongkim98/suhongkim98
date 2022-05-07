@@ -17,9 +17,14 @@
 </div>
 <br><br>
 
-![suhongkim98's github stats](https://github-readme-stats.vercel.app/api?username=suhongkim98)
+### 🌱 I’m currently learning
+* Microservices Architecture
+* k8s
+* DDD
 
-![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
+### 📫 How to reach me
+please feel free to contact me by email!
+
 <!--
 **suhongkim98/suhongkim98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
