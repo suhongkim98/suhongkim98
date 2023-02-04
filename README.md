@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=header&fontSize=90)
 ### Hi there 👋
-안녕하세요! 백엔드 개발 분야에 관심을 두고 꾸준히 공부하고 있는 김수홍이라고 합니다.<br>
-스프링 프레임워크를 주로 다루고 있으며 배포 아키텍처, CI / CD, MSA 등 DevOps와 인프라 분야에도 많은 관심을 가지고 공부하고 있습니다.
+안녕하세요! 백엔드 개발자 김수홍이라고 합니다.<br/>
+스프링을 주요 기술 스택으로 다루고 있으며 배포 아키텍처, CI / CD, MSA 등 DevOps와 인프라 분야에도 많은 관심을 가지고 있습니다.
 
 <h3>💻 Tech Stack 💻</h3>
 <div>
@@ -19,12 +19,17 @@
 <br><br>
 
 ### 🌱 I’m currently learning
-* Microservices Architecture
-* k8s
-* DDD
+* `kotlin`
+* `RxJava`, `webflux`
+
+
+### 😄 Interesting
+* `icroservices Architecture`
+* `k8s`
+* `DDD`
 
 ### 📫 How to reach me
-please feel free to contact me by email! (kshz9815@naver.com)
+please feel free to contact me by email! (`kshz9815@naver.com`)
 
 <!--
 **suhongkim98/suhongkim98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
