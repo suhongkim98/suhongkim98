@@ -24,7 +24,7 @@
 
 
 ### 😄 Interesting
-* `icroservices Architecture`
+* `Microservices Architecture`
 * `k8s`
 * `DDD`
 
