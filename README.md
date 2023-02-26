@@ -22,7 +22,7 @@
 
 ### 🌱 I’m currently learning
 * `kotlin`
-* `RxJava`, `webflux`
+* `Reactor`, `webflux`
 
 
 ### 😄 Interesting
