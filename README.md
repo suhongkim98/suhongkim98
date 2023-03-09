@@ -21,13 +21,14 @@
 <br><br>
 
 ### 🌱 I’m currently learning
-* `kotlin`
+* `kotlin`, `coroutine`
 * `Reactor`, `webflux`
+* `kafka connect`, `kafka streams`
 
 
 ### 😄 Interesting
 * `Microservices Architecture`
-* `k8s`
+* `kubernetes`
 * `DDD`
 
 ### 📫 How to reach me
