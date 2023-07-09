@@ -24,10 +24,6 @@
   <img src="https://img.shields.io/badge/amazon AWS-232F3E?style=flat-square&logo=amazon AWS&logoColor=white"/>
 </div>
 <div>
-  <img src="https://img.shields.io/badge/react-02A8EF?style=flat-square&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/firebase-E37400?style=flat-square&logo=firebase&logoColor=white"/>
-</div>
-<div>
 </div>
 <div>
 </div>
