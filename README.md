@@ -6,28 +6,7 @@
 유지보수하기 용이한, `Long-Run` 할 수 있는 백엔드 시스템을 만들기 위해 어떠한 기술적 노력을 할 수 있는지 고민합니다 🤔🤔 
 
 <!-- https://simpleicons.org/ -->
-<h3>💻 Tech Stack 💻</h3>
-<div>
-  <img src="https://img.shields.io/badge/java-DF0522?style=flat-square&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
-</div>
-<div>
-  <img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
-</div>
-<div>
-  <img src="https://img.shields.io/badge/apache kafka-232F3E?style=flat-square&logo=apachekafka&logoColor=white"/>
-  <img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
-  <img src="https://img.shields.io/badge/amazon AWS-232F3E?style=flat-square&logo=amazon AWS&logoColor=white"/>
-</div>
-<div>
-</div>
-<div>
-</div>
-<br><br>
+
 
 
 ### 📫 How to reach me
