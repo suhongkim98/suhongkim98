@@ -29,15 +29,6 @@
 </div>
 <br><br>
 
-### 🌱 I’m currently learning
-* `kotlin`, `coroutine`, `webflux`
-* `kafka connect`, `kafka streams`
-
-
-### 😄 Interesting
-* `Microservices Architecture`
-* `kubernetes`
-* `DDD`
 
 ### 📫 How to reach me
 please feel free to contact me by email! (`kshz9815@naver.com`)
