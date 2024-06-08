@@ -1,9 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=header&fontSize=90)
 ### Hi there 👋
-안녕하세요! 백엔드 개발자 김수홍이라고 합니다.<br/>
+안녕하세요! 소프트웨어 엔지니어 김수홍입니다.<br/>
 유연성과 확장성있는 시스템 아키텍처, 소프트웨어 아키텍처 설계와 지속 성장이 가능한 코드 작성에 관심이 많습니다.
 
-유지보수하기 용이한, `Long-Run` 할 수 있는 백엔드 시스템을 만들기 위해 어떠한 기술적 노력을 할 수 있는지 고민합니다 🤔🤔 
+유지보수하기 용이한, 진화할 수 있는 아키텍처를 만들기 위해 어떠한 기술적 노력을 할 수 있는지 고민합니다 🤔🤔 
 
 <!-- https://simpleicons.org/ -->
 
